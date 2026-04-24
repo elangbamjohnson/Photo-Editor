@@ -1,3 +1,9 @@
+//
+//  FilterBar.swift
+//  Photo Editor
+//
+//  Created by Johnson on 23/04/26.
+
 import SwiftUI
 
 struct FilterBar: View {

@@ -1,3 +1,10 @@
+//
+//  EditorViewModel.swift
+//  Photo Editor
+//
+//  Created by Johnson on 23/04/26.
+//
+
 import SwiftUI
 import CoreImage
 import PhotosUI
